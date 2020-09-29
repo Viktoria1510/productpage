@@ -1,0 +1,131 @@
+body {
+    background-image: url(https://img.icity.life/upload/2019/45/691/d6b/full/691d6bc4f0e4c7246c993ec5be8061c9.jpg);
+    font-style: oblique;
+}
+.header-img {
+    width: 100%;
+    margin: auto;
+    text-align: left;
+
+}
+#header-img {
+    position: fixed;
+    width: 150px;
+    margin: auto;
+    display: flexbox;
+}
+#navbar {
+    background-color:black;
+    color: white;
+    padding: 25px;
+    font-size: 55px;
+    text-align: right;
+    font-style: initial;
+}
+
+#information {
+    width: 2200px;
+    margin: auto;
+    background-image: url(https://unblast.com/wp-content/uploads/2020/02/Concrete-Texture-5.jpg);
+}
+h1 {
+    color:black ;
+    text-align: center;
+    padding: 25px;
+    font-size: 95px;
+}
+.songer {
+    text-align: center;}
+#songer {
+    border-color: black;
+    border-radius: 25%;
+    border-width: 15px;
+    border-style: double;
+}
+#info {
+    text-align: center;
+    font-size: 55px;
+}
+#songs {
+    text-align: center;
+}
+.songs {
+    width: 2200px;
+    margin: auto;
+    background-image: url(https://unblast.com/wp-content/uploads/2020/02/Concrete-Texture-5.jpg);
+    padding-bottom: 20px;
+}
+.concert {
+    text-align: center;
+    font-size: 100px;
+    color: red;
+    border-style: ridge;
+    border-color: black;
+    margin: auto;
+    width: 2200px;
+    font-style: oblique;
+    background-image: url(https://unblast.com/wp-content/uploads/2020/02/Concrete-Texture-5.jpg);
+}
+
+
+.tickets {
+    background-image: url(https://unblast.com/wp-content/uploads/2020/02/Concrete-Texture-5.jpgS);
+    width: 2200px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+.price {
+    background-color: rosybrown;
+    margin: 20px;
+    border-style: double;
+    border-color: black;
+}
+
+.ticket {
+    padding: 10px;
+    background-color: thistle;
+    color: white;
+    text-align: center;
+    border-color: black;
+    border-style: double;
+}
+.place {
+    font-size: 25px;
+    color: black;
+}
+#buy-ticket {
+    background-color: black;
+    border: none;
+    width: 100%;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 15px;
+}
+#buy {
+    background-image: url(https://unblast.com/wp-content/uploads/2020/02/Concrete-Texture-5.jpg);
+    width: 2200px;
+    margin: auto;
+    border-style: double;
+    color: white;
+    font-size: 45px;
+}   
+#email {
+    display: table;
+    margin: auto;
+    width: 600px;
+    padding: 50px;
+    border-style: dotted;
+    border-radius: 25%;
+    border-width: 25px;
+    background-color: ghostwhite;
+    font-size: 35px;
+  }
+  h2 {
+color: black;
+font-size: 45px;
+text-align: center;
+  }
+  
